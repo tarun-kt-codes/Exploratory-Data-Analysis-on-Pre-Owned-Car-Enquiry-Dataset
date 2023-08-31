@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Pre-Owned Car Dataset
+# Exploratory Data Analysis on Pre-Owned Car Enquiry Dataset
 
 Welcome to the **Exploratory Data Analysis (EDA) on Pre-Owned Car Dataset** repository! This project aims to provide a comprehensive analysis of a dataset containing information about pre-owned cars using popular Python libraries such as Pandas, Seaborn, Matplotlib, and NumPy.
 
